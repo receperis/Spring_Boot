@@ -76,23 +76,5 @@ REST API for the comments has the following specification:
 | `GET` | `/comments?articleId={articleId}` | return all comments with the given `articleId`.|
 | `POST`| `/comments` | create a new comment.|
 | `PUT` | `/comments` | update the given comment.|
-| `DELETE` | `/comments` | delete the given comment.|
-
-## Task 4 (Topics)
-
-We want to categorize our articles by topics. Each topic can have many articles and each article can belong to many topics. A topic object will have the following fields:
-
-* `id`
-* `name` topic name (String)
-* Don't forget to add appropriate relationship annotations to `Article`.
-
-Create a REST API for topics with the following specification:
-
-| HTTP Method | HTTP Path | Action |
-| ------------|-----------|--------|
-| `GET` |`/topics` | return all topics. |
-| `GET` | `/topics?articleId={articleId}` | return all topics related with the given `articleId`.|
-| `POST`| `/topics` | create a new topic.|
-| `PUT` | `/topics` | update the given topic.|
-| `DELETE` | `/topics` | delete the given topic.|
+| `DELETE` | `/comments` | delete the given comment.
 
