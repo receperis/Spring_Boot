@@ -6,8 +6,8 @@ In this project we have built the backend for a news site where users can create
 
 ## Recommended tools for manuplating the API
 
-* [Postman](https://www.postman.com).
-* [Curl](https://docs.oracle.com/en/cloud/saas/marketing/eloqua-develop/Developers/GettingStarted/APIRequests/curl-requests.htm).
+* [Postman](https://www.postman.com)
+* [Curl](https://docs.oracle.com/en/cloud/saas/marketing/eloqua-develop/Developers/GettingStarted/APIRequests/curl-requests.htm)
 
 ## Technologies employed
 
