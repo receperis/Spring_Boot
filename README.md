@@ -28,9 +28,9 @@ Example article (JSON):
 ```javascript
 {
     "id": 1,
-    "title": "10 reasons to learn Spring",
-    "body": "In this article I'll be listing 10 reasons why you should learn spring and use it in your next project...",
-    "authorName": "John Smith"
+    "title": "Why on the dark side?",
+    "body": "In this article I'll be telling about the pushing forces towards the dark side...",
+    "authorName": "Anakin Skywalker"
 }
 ```
 
