@@ -4,7 +4,7 @@
 
 In this project we have built the backend for a news site where users can create articles, comment them. The main way to interact with our application is using APIs (No graphical user interface).
 
-## Recommended tools for manuplating the API
+## Tools for manuplating the API
 
 * [Postman](https://www.postman.com)
 * [Curl](https://docs.oracle.com/en/cloud/saas/marketing/eloqua-develop/Developers/GettingStarted/APIRequests/curl-requests.htm)
